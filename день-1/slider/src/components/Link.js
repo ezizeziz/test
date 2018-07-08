@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 
+//``; компоненты
 const StyledLink = styled.a`
 	color: ${props => props.active ? 'pink' : '#fff'};
 	font-size: 14px;

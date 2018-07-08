@@ -4,6 +4,7 @@ import Row from 'react-bootstrap/lib/Row';
 import Col from 'react-bootstrap/lib/Col';
 import styled from 'styled-components';
 
+//``; компоненты
 //``;
 const Repair = styled.div`
 	color: #464646;

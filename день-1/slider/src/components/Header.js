@@ -7,7 +7,7 @@ import styled from 'styled-components';
 //тут имортируем link.js
 import Link from './Link';
 
-//``;
+//``; компоненты
 const List = styled.ul`
 	display: flex;
 	justify-content: space-between;
